@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
     <string name="app_name">リスト選択サンプル</string>
     <string-array name="lv_menu">
@@ -6,7 +6,7 @@
         <item>ハンバーグ定食</item>
         <item>生姜焼き定食</item>
         <item>ステーキ定食</item>
-        <item>野菜炒め</item>
+        <item>野菜炒め定食</item>
         <item>とんかつ定食</item>
         <item>ミンチかつ定食</item>
         <item>チキンカツ定食</item>

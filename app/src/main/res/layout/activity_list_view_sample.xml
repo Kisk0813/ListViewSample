@@ -4,4 +4,4 @@
     android:id="@+id/lvMenu"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:entries="@arrat/lv_menu"/>
+    android:entries="@array/lv_menu" />
